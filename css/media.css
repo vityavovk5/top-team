@@ -172,7 +172,7 @@
         content: "?";
     }
     #block2 {
-      
+        position: relative;
     }
     a > svg {
        -moz-transition: all 1s ease-out;
